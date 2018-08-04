@@ -2,10 +2,11 @@
   "name": "ummati",
   "version": "1.0.0",
   "description": "",
+  "author": "Ummati",
+  "private": true,
   "scripts": {
     "start": "live-server"
   },
-  "author": "Ummati",
   "devDependencies": {
     "live-server": "^1.2.0"
   }
