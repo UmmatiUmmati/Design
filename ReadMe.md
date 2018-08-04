@@ -1,5 +1,5 @@
-<img height="100px" width="800px" src="Logo/Ummati.svg">
-
-# [Font](/Font/ReadMe.md)
+<img height="100px" width="900px" src="Logo/Ummati.svg">
 
 # [Logo](/Logo/ReadMe.md)
+
+# [Font](/Font/ReadMe.md)
