@@ -2,6 +2,8 @@
 
 # [Logo](/Logo/ReadMe.md)
 
+# [Colour](/Colour/ReadMe.md)
+
 # [Font](/Font/ReadMe.md)
 
-# [Layout](/Font/Layout.md)
+# [Layout](/Layout/ReadMe.md)
