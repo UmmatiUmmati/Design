@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Ummati</title>
-    <desc>Ummati</desc>
-    <g x="5%" y="5%" width="90%" height="90%">
-        <path 
-            id="ummati"
-            d="M10.5 0 v0 11 M6.5 10 v0 -3.5 h2 0 v0 4 h-4 0 v0 -2.5 M4 10.5 h-1.5 0 v0 -2.5 M2 10.5 h-1.5 0 v-6 0 h8 0 v0 -2 h-8 0 v0 -2 h8.5 0" 
-            fill="none" 
-            stroke="blue" 
-            stroke-width="1"/>
-        <path
-            id="diacritics"
-            d=" M4.5 6 v1 0 M2.5 6 v1 0"
-            fill="none"
-            stroke="red"
-            stroke-width="1"/>
-    </g>
+  <title>Ummati</title>
+  <desc>Ummati logo</desc>
+  <g x="5%" y="5%" width="90%" height="90%">
+    <path
+      id="ummati"
+      d="M10.5 0 v0 11 M6.5 10 v0 -3.5 h2 0 v0 4 h-6 0 v0 -2 h2.5 0 M2 10.5 h-1.5 0 v-6 0 h8 0 v0 -2 h-8 0 v0 -2 h8.5 0"
+      fill="none"
+      stroke="blue"
+      stroke-width="1"/>
+    <path
+      id="diacritics"
+      d=" M4.5 6 v1 0 M2.5 6 v1 0"
+      fill="none"
+      stroke="red"
+      stroke-width="1"/>
+  </g>
 </svg>
