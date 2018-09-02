@@ -27,7 +27,7 @@
     }
   </style>
 
-  <symbol id="ummati" viewBox="0 0 11 11">
+  <symbol id="square" viewBox="0 0 11 11">
     <path
       id="ummati"
       d="M10.5 0 v0 11 M6.5 10 v0 -3.5 h2 0 v0 4 h-6 0 v0 -2 h2.5 0 M2 10.5 h-1.5 0 v-6 0 h8 0 v0 -2 h-8 0 v0 -2 h8.5 0"
@@ -48,19 +48,19 @@
   </symbol>
 
   <symbol id="portrait" viewBox="0 0 160 180">
-    <use xlink:href="#ummati" x="40" y="32" width="80" height="80"/>
+    <use xlink:href="#square" x="40" y="32" width="80" height="80"/>
     <use xlink:href="#typography" x="3" y="130" width="154" height="16"/>
   </symbol>
   <symbol id="landscape" viewBox="0 0 328 64">
-    <use xlink:href="#ummati" x="0" y="0" width="64" height="64"/>
+    <use xlink:href="#square" x="0" y="0" width="64" height="64"/>
     <use xlink:href="#typography" x="82" y="19" width="246" height="27"/>
   </symbol>
   <symbol id="skyscraper" viewBox="0 0 64 328">
-    <use xlink:href="#ummati" x="0" y="264" width="64" height="64"/>
+    <use xlink:href="#square" x="0" y="264" width="64" height="64"/>
     <use xlink:href="#typography" x="-90" y="109" width="246" height="27" transform="rotate(-90 32 123)"/>
   </symbol>
 
-  <use class="square" xlink:href="#ummati" x="5%" y="5%" width="90%" height="90%"/>
+  <use class="square" xlink:href="#square" x="5%" y="5%" width="90%" height="90%"/>
   <use class="portrait" xlink:href="#portrait" x="5%" y="5%" width="90%" height="90%"/>
   <use class="landscape" xlink:href="#landscape" x="5%" y="5%" width="90%" height="90%"/>
   <use class="skyscraper" xlink:href="#skyscraper" x="5%" y="5%" width="90%" height="90%"/>
