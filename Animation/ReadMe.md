@@ -1,6 +1,7 @@
 # Examples
 
 - [Animated transitions in mobile apps](https://blog.marvelapp.com/animated-transitions-in-mobile-apps/)
+- [Vue Transitions Animations](https://snipcart.com/blog/vuejs-transitions-animations)
 
 # Timing Functions
 
