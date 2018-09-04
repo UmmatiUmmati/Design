@@ -1,5 +1,6 @@
 # Examples
 
+- [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/)
 - [Animated transitions in mobile apps](https://blog.marvelapp.com/animated-transitions-in-mobile-apps/)
 - [Vue Transitions Animations](https://snipcart.com/blog/vuejs-transitions-animations)
 
