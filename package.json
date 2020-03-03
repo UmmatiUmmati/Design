@@ -8,6 +8,6 @@
     "start": "live-server"
   },
   "devDependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.1"
   }
 }
